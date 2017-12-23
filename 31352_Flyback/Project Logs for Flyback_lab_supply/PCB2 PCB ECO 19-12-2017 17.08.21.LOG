@@ -1,0 +1,14 @@
+Added Component: Designator=U4(4N35)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "4N35(SHORT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Toshiba"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetRopto1_2 Pin=U4-1
+Added Pin To Net: NetName=NetC9_1 Pin=U4-2
+Added Pin To Net: NetName=NetRin_1 Pin=U4-4
+Added Pin To Net: NetName=VCC-PRI Pin=U4-5
+Added Member To Class: ClassName=Sheet2 Member=Component U4 4N35(SHORT)

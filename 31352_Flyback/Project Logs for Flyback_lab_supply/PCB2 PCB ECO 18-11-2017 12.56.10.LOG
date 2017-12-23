@@ -1,0 +1,45 @@
+Added Component: Designator=Q?(INF-MG-WDSON-2-1_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/BSF450NE7NH3G_rev2.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30433a047ba0013a687e2ae403da"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/BSF450NE7NH3G_rev2.0.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30433a047ba0013a687e2ae403da"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "15 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "60 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "6-Pin Metal Green Very Very Thin Profile Dual Small Outline Non-Leaded Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MG-WDSON-2-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 02, 05/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BSF450NE7NH3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "18 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "6 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "45 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "7 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJA (max)"; Value = "58 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJC (max)"; Value = "7 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "75 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "3.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "2.3 V"; VariantName = "[No Variations]"
+Added Component: Designator=T?(TRANS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Transformer; 4 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TRANS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-4
+Added Pin To Net: NetName=NetQ?_1 Pin=T?-2
+Added Net: Name=NetQ?_1
+Added Class: Name=Sheet2
