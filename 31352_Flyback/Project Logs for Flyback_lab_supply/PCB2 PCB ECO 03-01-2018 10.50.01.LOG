@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetQ1_6 Pin=Q1-6
+Removed Member From Class: ClassName=Sheet2 Member=Q1
+Change Component Footprint: Designator=U4 Old Footprint=4N35 New Footprint=4N35SM (RS 917-5447)
+Change Component Comment : Designator=U4 Old Comment=4N35(SHORT) New Comment=4N35SM
+Change component parameters: Designator = "U4"; Footprint = "4N35SM (RS 917-5447)"; UniqueID = "\WYQFEHRU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "4N35SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(INF-PG-TDSON-8-1_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/BSC900N20NS3+Rev2.2.pdf?folderId=db3a304325305e6d012596c6ca7b290a&fileId=db3a30432ad629a6012b144f6b0619db"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/cms/packages/SMD_-_Surface_Mounted_Devices/P-PG-TDSON/P-PG-TDSON-08-01x_2x_3.html?__locale=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "15.2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "61 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic (Green) Thin Dual Small Outline Non-Leaded Package, 5.15 x 5.9 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TDSON-8-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BSC900N20NS3 G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "62.5 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "9 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "90 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "2 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJA (max)"; Value = "50 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJC (max)"; Value = "2 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "200 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "4 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "2 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_6 Pin=Q?-1
+Added Pin To Net: NetName=NetQ1_6 Pin=Q?-2
+Added Pin To Net: NetName=NetQ1_6 Pin=Q?-3
+Change Net Name : Old Net Name=NetQ1_6 New Net Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_4 Pin=Q?-4
+Added Pin To Net: NetName=NetQ?_4 Pin=Rgate-1
+Added Net: Name=NetQ?_4
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-5
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-6
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-7
+Added Pin To Net: NetName=NetQ?_5 Pin=Q?-8
+Added Pin To Net: NetName=NetQ?_5 Pin=T1-2
+Added Net: Name=NetQ?_5
+Added Member To Class: ClassName=Sheet2 Member=Component Q? BSC900N20NS3 G
+Added Room: Name=Sheet2
