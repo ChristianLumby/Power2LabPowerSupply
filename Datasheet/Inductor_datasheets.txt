@@ -1,0 +1,2 @@
+Output inductor datasheet: https://www.mouser.com/ds/2/597/mss1038-270676.pdf (2.5 uH)
+Input filter damping inductors: http://www.mouser.com/ds/2/597/mss1278-270709.pdf (15 uH, 18 uH)
