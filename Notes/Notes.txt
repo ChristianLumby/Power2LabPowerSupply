@@ -1,0 +1,3 @@
+Notes:
+
+Pulldown resistor at gate (50k).
