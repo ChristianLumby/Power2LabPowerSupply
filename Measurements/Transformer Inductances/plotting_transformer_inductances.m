@@ -2,11 +2,11 @@
 %Files are stripped from text.
 
 %Reading values
-fid=fopen('LL_IND.txt','r');
+fid=fopen('LL_IND_5_1.txt','r');
 tt = textscan(fid,'%f %f %f');
 fclose(fid);
 LL_data = cell2mat(tt);
-fid=fopen('LM_IND.txt','r');
+fid=fopen('LM_IND_5_1.txt','r');
 tt = textscan(fid,'%f %f %f');
 fclose(fid);
 LM_data = cell2mat(tt);
@@ -22,5 +22,21 @@ ylabel('Leakage inductance [?H]');
 yyaxis right;
 plot(LM_data(:,1)*10^(-6),LM_data(:,2)*10^6)
 ylabel('Magnetizing inductance [?H]');
-saveas(gcf,'Inductance_measurements_first_core','epsc')
+saveas(gcf,'Inductance_measurements_second_core','epsc')
 
+
+%% Primary resistance
+% using LM measurements (open sec. and tert. side)
+fid=fopen('primary_res_5_1.txt','r');
+tt = textscan(fid,'%f %f %f');
+fclose(fid);
+res_data = cell2mat(tt);
+
+flow = 0.1;
+fhigh = 1;
+semilogy(res_data(:,1)*10^(-6),res_data(:,2))
+grid on;
+xlim([flow fhigh])
+xlabel('Frequency [MHz]');
+ylabel('Primary resistance [Ohm]');
+saveas(gcf,'Inductance_measurements_primary_resistance','epsc')
