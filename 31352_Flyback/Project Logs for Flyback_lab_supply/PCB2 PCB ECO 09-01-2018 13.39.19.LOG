@@ -1,0 +1,12 @@
+Change Component Comment : Designator=D1 Old Comment=CDBB5100 New Comment=MBRS1100T3G
+Change Component Comment : Designator=Rp Old Comment=Not Populated New Comment=
+Change component parameters: Designator = "Rp"; Footprint = "RESC0805(2012)_L"; UniqueID = "\BDDQMPDI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "57k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetClp_2 Pin=U3-3
+Added Member To Class: ClassName=Sheet2 Member=Component R4 400R
