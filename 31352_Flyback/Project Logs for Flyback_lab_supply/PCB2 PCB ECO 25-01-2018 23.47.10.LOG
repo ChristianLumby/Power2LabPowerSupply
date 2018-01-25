@@ -1,0 +1,7 @@
+Added Component: Designator=Q4(ZXCT1107S)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC8_2 Pin=Q2-2
+Added Pin To Net: NetName=Net*_23 Pin=Q4-1
+Added Pin To Net: NetName=NetC22_2 Pin=Q4-2
+Added Pin To Net: NetName=NetC22_1 Pin=Q4-3
+Added Member To Class: ClassName=Sheet2 Member=Component Q4 Current sense amplifier
